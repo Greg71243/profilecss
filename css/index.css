@@ -1,0 +1,83 @@
+/* CSS file --> index.html */
+/* (1) Tag Selector */
+h1{
+    text-align: center;
+    font-family: cursive;
+    /*background-color: #00A19D;*/
+    /*color: white;*/
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-weight: normal;
+    /*color: white;*/
+}
+h4{
+    text-align: center;
+    font-family: cursive;
+    /*background-color: #E05D5D;*/
+    /*color: white;*/
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    width: 33.33%;
+    vertical-align: top;
+}
+.p-Aboutme{
+    font-weight: lighter;
+    text-align: justify;
+    /*font-family: cursive;*/
+    color: white;
+}
+#th2{
+    text-align: left;
+    /*font-family: cursive;*/
+    color: white;
+}
+.pName{
+    font-weight:normal;
+    color: white;
+}
+.p-Footer{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: rgb(34, 34, 34);
+}
+.website1{
+    /*font-family: cursive;*/
+    font-weight: lighter;
+}
+.email1{
+    /*font-family: cursive;*/
+    font-weight: lighter;
+}
+.table1{
+    font-family: cursive;
+    font-weight: lighter;    
+}
+.table2{
+    background-color: rgb(71, 44, 61);
+    color: white;
+}
+.top{
+    color: white;
+}
+.midtable{
+    background-color: whitesmoke;
+}
+.table1 td:hover{
+    background-color: #FFB344;
+}
+.about{
+    color: rgb(34, 34, 34);
+    background-color: #FFB344;
+}
+.details{
+    color: rgb(34, 34, 34);
+    background-color: #FFB344;
+}

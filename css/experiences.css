@@ -1,0 +1,52 @@
+.table1{
+    width: 100%;
+    text-align: center;
+}
+.table1 td:hover{
+    background-color: #FFB344;
+}
+.table1{
+    font-family: cursive;
+    font-weight: lighter;    
+}
+.tab2{
+    margin-left: auto; margin-right: auto;
+    color: white;
+}
+h1{
+    text-align: center; 
+    font-family: cursive;
+    color: white;
+}
+h4{
+    text-align: center; 
+    font-family: cursive; 
+    font-weight: normal;
+    color: white;
+}
+h5{
+    text-align: center; 
+    font-family: cursive;
+    font-weight: normal;
+    color: white;
+}
+.midtable{
+    background-color: whitesmoke;
+}
+body{
+    background-color: rgb(34, 34, 34);
+}
+.dtab2{
+    background-color: rgb(71, 44, 61);
+}
+.ul1{
+    list-style-type:circle
+}
+.exp{
+    color: rgb(34, 34, 34);
+    background-color: #FFB344;
+}
+.workexp{
+    color: rgb(34, 34, 34);
+    background-color: #FFB344;
+}
